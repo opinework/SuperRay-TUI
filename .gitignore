@@ -1,0 +1,29 @@
+# Build outputs
+build/
+dist/
+
+# Binary
+superray-tui
+superray-tui.exe
+
+# Logs
+*.log
+
+# Config (may contain sensitive info)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Go
+go.sum
+
+# Claude settings
+.claude/
